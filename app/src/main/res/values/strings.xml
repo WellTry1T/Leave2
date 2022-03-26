@@ -1,0 +1,31 @@
+<resources>
+
+    <!--MainActivity start-->
+    <string name="app_name">Leave</string>
+    <string name="title1">Цель</string>
+    <string name="title2">Страна</string>
+    <string name="title3">Способ</string>
+    <string name="upTitle1">1</string>
+    <string name="upTitle2">2</string>
+    <string name="upTitle3">3</string>
+    <string name="beginTitle">Определитесь с желаемым</string>
+    <string name="afterBeginTitle">результатом</string>
+    <string name="iconButton1">Иммиграция</string>
+    <string name="iconButton2">Туризм</string>
+    <string name="iconButton3">Выбрать</string>
+    <!--MainActivity end-->
+
+    <!--ChoiceCountry start-->
+    <string name="title">Canada</string>
+    <string name="titleHeader">Уровень жизни: </string>
+    <string name="titleHeaderCountry">18 место по версии \"Numbeo\"</string>
+    <string name="titleHeaderCountryBelow">с индексом 170.32</string>
+    <string name="more">Подробнее</string>
+    <!--ChoiceCountryMap end-->
+    <!--Way start-->
+    <string name="titleWay">Express entry</string>
+    <string name="titleWayBellow">Иммиграция через работу.</string>
+    <string name="titleMain">1)................\n2).......................\n3).......................</string>
+
+    <string name="description">Описание</string>
+</resources>
